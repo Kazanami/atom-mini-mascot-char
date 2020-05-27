@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle mascot-minichar",
+        "command": "mascot-minichar:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "mascot-minichar",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "mascot-minichar:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

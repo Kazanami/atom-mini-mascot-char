@@ -1,0 +1,19 @@
+{
+  "name": "atom-mini-mascot-char",
+  "main": "./lib/mascot-minichar",
+  "version": "0.0.1",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/Kazanami/atom-mini-mascot-char",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1"
+  },
+  "author": {
+    "name": "Kazanami",
+    "email": "dummy.github.1945@gmail.com"
+  }
+}
