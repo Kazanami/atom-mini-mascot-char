@@ -1,6 +1,6 @@
 {
   "name": "atom-mini-mascot-char",
-  "main": "./lib/mascot-minichar",
+  "main": "./lib/atom-mini-mascot-char",
   "version": "0.0.1",
   "description": "A short description of your package",
   "keywords": [],
